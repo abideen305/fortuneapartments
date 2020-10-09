@@ -15145,7 +15145,7 @@ a.view:hover {
 }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/banner1.jpeg) no-repeat center;
+  background: url(../images/banner1.jpg) no-repeat center;
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -15167,7 +15167,7 @@ a.view:hover {
 }
 
 .w3l-main-slider .banner-top3 {
-  background: url(../images/banner4.jpeg) no-repeat center;
+  background: url(../images/banner4.jpg) no-repeat center;
   background-size: cover;
   min-height: 100vh;
 }
