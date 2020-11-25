@@ -18311,3 +18311,7 @@ form.signin-form {
 .list-design{
   list-style-type: circle;
 }
+
+.servicecolor{
+  color: red;
+}
