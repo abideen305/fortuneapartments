@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+:root{
+  visibility: hidden;
+}
+
 @charset "UTF-8";
 
 :root {
